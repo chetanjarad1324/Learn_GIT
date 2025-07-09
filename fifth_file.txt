@@ -1,0 +1,6 @@
+hello this is fifth filegig
+
+i want to add more text in it.
+ as everytime i have been adding some text or some code in it.
+
+ then i need to add as well commit to get it from staging area commited area.
