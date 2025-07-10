@@ -6,3 +6,5 @@ i want to add more text in it.
  then i need to add as well commit to get it from staging area commited area.
 
  Please add more texts in it.
+
+ recently added some code into it.
