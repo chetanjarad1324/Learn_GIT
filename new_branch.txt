@@ -1,1 +1,3 @@
 this file is for new_branch
+
+now im changing some in new_branch and pushing this file via master branch to check the chnages
