@@ -1,3 +1,7 @@
 seventh files for you.
+<<<<<<< HEAD
 
 sfsffes fsfwfefew affsfsdfw
+=======
+changesaaff done 
+>>>>>>> new_branch
